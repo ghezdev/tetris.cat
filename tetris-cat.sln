@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tetris-cat", "tetris-cat.csproj", "{BB7F14BC-581F-4C53-80D0-F41E03C8715A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7F14BC-581F-4C53-80D0-F41E03C8715A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7F14BC-581F-4C53-80D0-F41E03C8715A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7F14BC-581F-4C53-80D0-F41E03C8715A}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{BB7F14BC-581F-4C53-80D0-F41E03C8715A}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{BB7F14BC-581F-4C53-80D0-F41E03C8715A}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{BB7F14BC-581F-4C53-80D0-F41E03C8715A}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
